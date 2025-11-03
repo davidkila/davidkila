@@ -30,7 +30,7 @@ JQuery (Beginner)
 ## Favorite Projects 🔧
 
 
-1️⃣ [Disneyland, in Action! Webpage Design (Prototype)](https://github.com/davidkila/disneyland)
+1️⃣ [Disneyland, in Action! Webpage Design](https://github.com/davidkila/disneyland)
 
 • Developed front-end and back-end of a test Disneyland webpage with functionalities including a light/dark mode, photo carousel, calendar picker and submission form.
 
@@ -58,7 +58,7 @@ chosenProduct.classList.add("currentItem");
 });
 ```
 
-2️⃣ [Wunderlust Webpage (Prototype)](https://github.com/davidkila/wunderlust)
+2️⃣ [Wunderlust Webpage](https://github.com/davidkila/wunderlust)
 
 • Coded the front-end a test website for a fictitious travel agency, which features color-changing hover buttons, complex grid layouts and a submission form. The webpage also highlights SEO optimization via Twitter card and open graph meta tags.
 
@@ -81,7 +81,7 @@ chosenProduct.classList.add("currentItem");
         <link rel="shortcut icon" href="images/favicon.png">
 ```
 
-3️⃣ [TK Photography Website (Prototype)](https://github.com/davidkila/photogallery)
+3️⃣ [TK Photography Webpage](https://github.com/davidkila/photogallery)
 
 • Designed a website for a fictitious photography portfolio webpage, which showcases a collection of images, color-changing buttons and a submission form. It also is responsive across multiple screen sizes via medium and large media queries.
 
