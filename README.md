@@ -1,7 +1,7 @@
 ## Hey, I’m David Kila! 🤠
 
 
-[LinkedIn](https://www.linkedin.com/in/david-kila-b51302319) | [Email](davidawokila@gmail.com)
+Connect with Me!: [LinkedIn](https://www.linkedin.com/in/david-kila-b51302319) | [Email](davidawokila@gmail.com)
 
 
 ## A Bit About Me 🤙🏽
