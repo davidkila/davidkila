@@ -48,9 +48,9 @@ chosenProduct.classList.add("currentItem");
 });
 ```
 
-• [Wunderlust Webpage (Prototype)](https://github.com/davidkila/wunderlust)
+[Wunderlust Webpage (Prototype)](https://github.com/davidkila/wunderlust)
 
-Coded the front-end a test website for a fictitious travel agency, which showcases color-changing hover buttons, complex grid layouts and a submission form. The webpage also highlights SEO optimization via Twitter card and open graph meta tags.
+> * Coded the front-end a test website for a fictitious travel agency, which showcases color-changing hover buttons, complex grid layouts and a submission form. The webpage also highlights SEO optimization via Twitter card and open graph meta tags.
 
 ```
         <!-- ~~~~~~~~~~ TWITTER CARD TAGS ~~~~~~~~~~ -->
@@ -73,7 +73,7 @@ Coded the front-end a test website for a fictitious travel agency, which showcas
 
 • TK Photography Website (Prototype)
 
-f
+
 
 ```
 /* --------------- MEDIA QUERY (medium) ----------------- */
