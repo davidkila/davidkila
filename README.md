@@ -1,28 +1,36 @@
 ## Hey, I’m David Kila! 🤠
 
 
+
 ## A Bit About Me 🤙🏽
+
 
 I’m currently a senior at Arizona State studying graphic web design, interested in brand strategy and app development. I also intend to begin a Master’s in Computer Science at Georgia Tech in the spring of 2027.
 
 
+
 ## Tech Toolbox 🔧
+
 
 • Languages:
 HTML (Intermediate), CSS (Intermediate), JavaScript (Beginner), Java (Beginner)
 
+
 • Software Tools:
 Illustrator (Intermediate), Canva (Intermediate), InDesigner (Beginner), Figma (Beginner)
+
 
 • Libraries:
 JQuery (Beginner)
 
 
+
 ## Favorite Projects 🔧
 
-• [Disneyland, in Action! Webpage Design (Prototype)](https://github.com/davidkila/disneyland)
 
-Developed front-end and back-end of a test Disneyland webpage with functionalities including a light/dark mode, photo carousel, calendar picker and submission form.
+[Disneyland, in Action! Webpage Design (Prototype)](https://github.com/davidkila/disneyland)
+
+• Developed front-end and back-end of a test Disneyland webpage with functionalities including a light/dark mode, photo carousel, calendar picker and submission form.
 
 ```
 document.addEventListener("DOMContentLoaded", function () {
@@ -50,7 +58,7 @@ chosenProduct.classList.add("currentItem");
 
 [Wunderlust Webpage (Prototype)](https://github.com/davidkila/wunderlust)
 
-> * Coded the front-end a test website for a fictitious travel agency, which showcases color-changing hover buttons, complex grid layouts and a submission form. The webpage also highlights SEO optimization via Twitter card and open graph meta tags.
+• Coded the front-end a test website for a fictitious travel agency, which features color-changing hover buttons, complex grid layouts and a submission form. The webpage also highlights SEO optimization via Twitter card and open graph meta tags.
 
 ```
         <!-- ~~~~~~~~~~ TWITTER CARD TAGS ~~~~~~~~~~ -->
@@ -71,9 +79,9 @@ chosenProduct.classList.add("currentItem");
         <link rel="shortcut icon" href="images/favicon.png">
 ```
 
-• TK Photography Website (Prototype)
+[TK Photography Website (Prototype)](https://github.com/davidkila/photogallery)
 
-
+• Designed a website for a fictitious photography portfolio webpage, which showcases a collection of images, color-changing buttons and a submission form. It also is responsive across multiple screen sizes via medium and large media queries.
 
 ```
 /* --------------- MEDIA QUERY (medium) ----------------- */
