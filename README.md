@@ -3,8 +3,7 @@
 
 ## A Bit About Me 🤙🏽
 
-I’m currently a senior at Arizona State studying graphic web design, interested in brand strategy and app development. I
-also intend to begin a Master’s in Computer Science at Georgia Tech in the spring of 2027.
+I’m currently a senior at Arizona State studying graphic web design, interested in brand strategy and app development. I also intend to begin a Master’s in Computer Science at Georgia Tech in the spring of 2027.
 
 
 ## Tech Toolbox 🔧
@@ -23,9 +22,9 @@ JQuery (Beginner)
 
 • [Disneyland, in Action! Webpage Design (Prototype)](https://github.com/davidkila/disneyland)
 
-Developed front-end and back-end of a test Disneyland webpage with functionalities including a light/dark mode, photo carousel,
-calendar picker and submission form.
-```py
+Developed front-end and back-end of a test Disneyland webpage with functionalities including a light/dark mode, photo carousel, calendar picker and submission form.
+
+```
 document.addEventListener("DOMContentLoaded", function () {
 const productButtons = document.getElementsByClassName("product-button");
 const productBlocks = document.querySelectorAll("#product-display > .product");
@@ -49,6 +48,10 @@ chosenProduct.classList.add("currentItem");
 });
 ```
 
+• [Wunderlust Webpage (Prototype)](https://github.com/davidkila/wunderlust)
+
+Coded the front-end a test website for a fictitious travel agency, which showcases color-changing hover buttons, complex grid layouts and a submission form. The webpage also highlights SEO optimization via Twitter card and open graph meta tags.
+
 ```
         <!-- ~~~~~~~~~~ TWITTER CARD TAGS ~~~~~~~~~~ -->
         <meta name="twitter:card" content="summary_large_image">
@@ -68,10 +71,10 @@ chosenProduct.classList.add("currentItem");
         <link rel="shortcut icon" href="images/favicon.png">
 ```
 
-• New Hope Kailua Website Redesign (Prototype)
+• TK Photography Website (Prototype)
 
-Designed a test website for New Hope Kailua by refreshing its logo and brand style guide, aimed at streamlining the process for
-prospective and current members to get connected.
+f
+
 ```
 /* --------------- MEDIA QUERY (medium) ----------------- */
 @media screen and (min-width:880px) {
@@ -103,9 +106,3 @@ figure:nth-last-child(-n+2) figcaption {
 }
 ```
 
-
-
-
-• Dutch Bros Website Redesign (Prototype)
-
-Conducted a heuristic evaluation on Dutch Bros’ official site and designed wireframes in Figma based on my findings. They showcased a minimalistic layout and a more intuitive navigation.
