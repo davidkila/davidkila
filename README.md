@@ -1,4 +1,4 @@
-![Header](https://github.com/davidkila/davidkila/blob/main/Horizontal%20RGB.png)
+![Header](https://github.com/davidkila/davidkila/blob/main/GitHub%20Header.png)
 
 ## Hey, I’m David Kila! 🤠
 
