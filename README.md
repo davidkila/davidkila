@@ -21,7 +21,7 @@ JQuery (Beginner)
 
 ## Favorite Projects 🔧
 
-• Disneyland, in Action! Webpage Design (Prototype)
+• [Disneyland, in Action! Webpage Design (Prototype)](https://github.com/davidkila/disneyland)
 
 Developed front-end and back-end of a test Disneyland webpage with functionalities including a light/dark mode, photo carousel,
 calendar picker and submission form.
