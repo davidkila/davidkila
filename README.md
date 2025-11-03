@@ -15,7 +15,6 @@ I’m currently a senior at Arizona State studying graphic web design, intereste
 
 
 • Languages:
-![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 HTML(Intermediate), CSS (Intermediate), JavaScript (Beginner), Java (Beginner)
 
 
