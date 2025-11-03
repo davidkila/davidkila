@@ -25,12 +25,25 @@ JQuery (Beginner)
 
 Developed front-end and back-end of a test Disneyland webpage with functionalities including a light/dark mode, photo carousel,
 calendar picker and submission form.
+```py
+document.addEventListener("DOMContentLoaded", function() {
+const themeModeButton = document.getElementById("light-dark-mode-toggle");
+document.documentElement.setAttribute("theme-mode", "light");
+themeModeButton.addEventListener("click", function () {
+const switchedTheme = document.documentElement.getAttribute("theme-mode") === "dark" ? "light" : "dark";
+document.documentElement.setAttribute("theme-mode", switchedTheme);
+themeModeButton.textContent = switchedTheme === "dark" ? "Light Mode" : "Dark Mode";
+});
+```
+
 
 
 • New Hope Kailua Website Redesign (Prototype)
 
 Designed a test website for New Hope Kailua by refreshing its logo and brand style guide, aimed at streamlining the process for
 prospective and current members to get connected.
+
+
 
 
 • Dutch Bros Website Redesign (Prototype)
