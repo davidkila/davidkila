@@ -2,14 +2,12 @@
 _________________________________________________________________________________
 
 
-**davidkila/davidkila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-A Bit About Me
+## A Bit About Me 🤙🏽
 ____________________________________________________________________________________________________________________________________
 I’m currently a senior at Arizona State studying graphic web design, interested in brand strategy and app development. I
 also intend to begin a Master’s in Computer Science at Georgia Tech in the spring of 2027.
 
-Tech Toolbox
+## Tech Toolbox 🔧
 ____________________________________________________________________________________________________________________________________
 • Languages:
 HTML (Intermediate), CSS (Intermediate), JavaScript (Beginner), Java (Beginner)
@@ -17,8 +15,8 @@ HTML (Intermediate), CSS (Intermediate), JavaScript (Beginner), Java (Beginner)
 Illustrator (Intermediate), Canva (Intermediate), InDesigner (Beginner), Figma (Beginner)
 • Libraries:
 JQuery (Beginner)
-
-Favorite Projects
+�
+## Favorite Projects 🔧
 • Disneyland, in Action! Webpage Design (Prototype)
 Developed front-end and back-end of a test Disneyland webpage with functionalities including a light/dark mode, photo carousel,
 calendar picker and submission form.
