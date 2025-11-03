@@ -1,3 +1,5 @@
+![Header](https://github.com/davidkila/davidkila/blob/main/Horizontal%20RGB.png)
+
 ## Hey, I’m David Kila! 🤠
 
 
