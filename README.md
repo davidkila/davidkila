@@ -26,14 +26,29 @@ JQuery (Beginner)
 Developed front-end and back-end of a test Disneyland webpage with functionalities including a light/dark mode, photo carousel,
 calendar picker and submission form.
 ```py
-document.addEventListener("DOMContentLoaded", function() {
-const themeModeButton = document.getElementById("light-dark-mode-toggle");
-document.documentElement.setAttribute("theme-mode", "light");
-themeModeButton.addEventListener("click", function () {
-const switchedTheme = document.documentElement.getAttribute("theme-mode") === "dark" ? "light" : "dark";
-document.documentElement.setAttribute("theme-mode", switchedTheme);
-themeModeButton.textContent = switchedTheme === "dark" ? "Light Mode" : "Dark Mode";
+function guessingGame(){
+
+document.getElementById("guessing-game-form").addEventListener("submit", function(e) {
+	e.preventDefault();
+
+let computerGuessDisplay = document.getElementById("computer-guess");
+let userGuessDisplay = document.getElementById("user-guess");
+let userGuessInput = document.getElementById("user-guess-input");
+let guessingGameMessage = document.getElementById("gameOutput");
+
+let computerGuess = getRandomNumber (1,10);
+let userGuess = parseInt(userGuessInput.value.trim());
+
+computerGuessDisplay.innerHTML = computerGuess;
+userGuessDisplay.innerHTML = userGuess;
+
+if(computerGuess === userGuess){
+  guessingGameMessage.innerHTML = "Congratulations!<br>You won!";
+}else{
+guessingGameMessage.innerHTML = "Try Again.";
+}
 });
+}
 ```
 
 
